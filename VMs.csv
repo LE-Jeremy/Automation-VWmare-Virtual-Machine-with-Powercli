@@ -1,0 +1,13 @@
+Nom;ESXI;Storage;ISO;Description;CPU;Memory;Disk;Provisionning;Network
+LEvm1;172.180.0.100;FreeNAS_LabVMWare;debian;Infrastructure DNS VM;2;1572;125;EagerZeroedThick;Exchange
+LEvm2;172.180.0.100;FreeNAS_LabVMWare;debian;Test VM;2;1572;125;EagerZeroedThick;Exchange
+LEvm3;172.180.0.100;FreeNAS_LabVMWare;debian;DataBase users VM;2;1572;125;EagerZeroedThick;Exchange
+LEvm4;172.180.0.100;FreeNAS_LabVMWare;debian;DataBase computer/phone VM;2;1572;125;EagerZeroedThick;Exchange
+LEvm5;172.180.0.100;FreeNAS_LabVMWare;debian;NagiOS VM ;2;1572;125;EagerZeroedThick;Exchange
+LEvm6;172.180.0.101;FreeNAS_LabVMWare;ubuntu;Test VM;2;1572;125;EagerZeroedThick;Exchange
+LEvm7;172.180.0.101;FreeNAS_LabVMWare;ubuntu;Test VM;2;1572;125;EagerZeroedThick;Exchange
+LEvm8;172.180.0.101;FreeNAS_LabVMWare;ubuntu;NAS VM;2;1572;125;EagerZeroedThick;Exchange
+LEvm9;172.180.0.101;FreeNAS_LabVMWare;ubuntu;Docker IP CAM VM;2;1572;125;EagerZeroedThick;Exchange
+LEvm10;172.180.0.101;FreeNAS_LabVMWare;ubuntu;Ingineer VM;2;1572;125;EagerZeroedThick;Exchange
+FailVM;172.180.0.101;FreeNAS_LabVMWare;debian;Not_working;2;1572;125;EagerZeroedThick;Not_the_good_network
+CancelVM;172.180.0.100;FreeNAS_LabVMWare;ubuntu;Please_cancel_me;2;1572;125;EagerZeroedThick;Yepa
